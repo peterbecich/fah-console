@@ -1,6 +1,8 @@
 Folding@home Console
 ====================
 
+[![Build Status](https://travis-ci.com/FoldingAtHome/fah-console.svg?branch=master)](https://travis-ci.com/FoldingAtHome/fah-console)
+
 [![Screenshot of the Folding@home Console](screenshot.png)](https://console.foldingathome.org)
 
 The Folding@home Console is a Web app for tracking activity on the Folding@home
